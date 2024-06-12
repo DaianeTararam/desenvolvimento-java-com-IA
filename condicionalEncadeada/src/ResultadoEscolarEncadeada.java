@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ResultadoEscolar {
+public class ResultadoEscolarEncadeada {
     public static void main(String[] args) {
         int nota;
         nota = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor da nota:"));
